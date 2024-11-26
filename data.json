@@ -7501,7 +7501,7 @@
     ],
     "independent": false
   },
-  
+
   {
     "name": "Italy",
     "topLevelDomain": [".it"],
@@ -11407,7 +11407,7 @@
     "independent": true
   },
   {
-    "name": "Palestine, State of",
+    "name": "Palestine",
     "topLevelDomain": [".ps"],
     "alpha2Code": "PS",
     "alpha3Code": "PSE",
@@ -11421,7 +11421,7 @@
     "demonym": "Palestinian",
     "gini": 33.7,
     "timezones": ["UTC+02:00"],
-    "borders": ["ISR", "EGY", "JOR"],
+    "borders": ["EGY", "JOR"],
     "nativeName": "فلسطين",
     "numericCode": "275",
     "flags": {
